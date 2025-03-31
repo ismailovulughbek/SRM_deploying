@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Title -->
+    <title>Silk Road Multilingual</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="/static/image/png" href="/static/assets/img/icon/fevicon.png">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/static/assets/css/bootstrap.min.css">
+    <!-- Font awesome CSS -->
+    <link rel="stylesheet" href="/static/assets/css/font-awesome.min.css">
+    <!-- Carousel CSS -->
+    <link rel="stylesheet" href="/static/assets/css/owl.carousel.css">
+    <!-- Animate CSS -->
+    <link rel="stylesheet" href="/static/assets/css/animate.min.css">
+    <!-- Mobile Menu CSS -->
+    <link rel="stylesheet" href="/static/assets/css/meanmenu.css">
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="/static/assets/css/style.css">
+
+    <!-- <link rel="stylesheet" href="/static/assets/css/intro.css">
+
+    <link rel="stylesheet" href="/static/assets/css/header_top.css"> -->
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="/static/assets/css/responsive.css">
+
+    <!-- jQuery -->
+    <script src="/static/assets/js/jquery-1.11.3.min.js"></script>
+    <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+</head>
+
+<body>
+   <!-- prelaoder start -->
+    <div id="preloader-wrapper">
+        <div class="preloader-wave-effect"></div>
+    </div>
+    <!-- prelaoder end -->
+     
+    <!-- header area start --------------------------------------------------------------------------------------------UI -->
+    <header>
+        <div class="header-top">
+            <div class="container">
+                <div class="ht-icons">
+                    <div class="ht-contact-info">
+                        <div>
+                            <i class="fa fa-phone"></i> <a href="tel:+77077501545">+7 707 750 1545</a>
+                        </div>
+                        <div>
+                            <i class="fa fa-envelope"></i> <a href="mailto:support@wpocean.com">info@silkroadmultilingual.kz</a>
+                        </div>
+                    </div>
+            
+                    <!-- Ijtimoiy tarmoqlar -->
+                    <div class="ht-social-icons">
+                            <a href="https://www.facebook.com/people/Silk-Road-Multilingual-KZ/61557873156209/">
+                                <i class="hs hs-facebook">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 48 48" fill="none"><path d="M43.7435 1.81128H4.25979C2.90738 1.81128 1.81104 2.90762 1.81104 4.26003V43.7438C1.81104 45.0962 2.90738 46.1925 4.25979 46.1925H43.7435C45.0959 46.1925 46.1923 45.0962 46.1923 43.7438V4.26003C46.1923 2.90762 45.0959 1.81128 43.7435 1.81128Z" fill="#3D5A98"></path><path d="M32.4299 46.1888V29.0025H38.1974L39.0599 22.305H32.4299V18.03C32.4299 16.0913 32.9699 14.7675 35.7487 14.7675H39.2962V8.76752C37.5783 8.58882 35.852 8.50369 34.1249 8.51252C29.0174 8.51252 25.4999 11.625 25.4999 17.3663V22.305H19.7324V29.0025H25.4999V46.1888H32.4299Z" fill="white"></path></svg>
+                                </i>
+                            </a>
+                            <a href="https://www.instagram.com/silk_road_multilingual.kz/">
+                                <i class="hs hs-instagram">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 48 48" fill="none"><g clip-path="url(#clip0_37_8)"><path d="M36.75 0H11.25C5.0368 0 0 5.0368 0 11.25V36.75C0 42.9632 5.0368 48 11.25 48H36.75C42.9632 48 48 42.9632 48 36.75V11.25C48 5.0368 42.9632 0 36.75 0Z" fill="url(#paint0_radial_37_8)"></path><path d="M36.75 0H11.25C5.0368 0 0 5.0368 0 11.25V36.75C0 42.9632 5.0368 48 11.25 48H36.75C42.9632 48 48 42.9632 48 36.75V11.25C48 5.0368 42.9632 0 36.75 0Z" fill="url(#paint1_radial_37_8)"></path><path d="M24.0017 5.25C18.9096 5.25 18.2704 5.27231 16.2705 5.36325C14.2744 5.45475 12.9118 5.77069 11.7197 6.23438C10.4863 6.71325 9.44025 7.35394 8.39813 8.39644C7.35506 9.43875 6.71438 10.4848 6.234 11.7176C5.769 12.9101 5.45269 14.2732 5.36287 16.2684C5.27344 18.2685 5.25 18.9079 5.25 24.0002C5.25 29.0925 5.2725 29.7296 5.36325 31.7295C5.45513 33.7256 5.77106 35.0882 6.23438 36.2803C6.71362 37.5137 7.35431 38.5598 8.39681 39.6019C9.43875 40.6449 10.4848 41.2871 11.7173 41.766C12.9103 42.2297 14.2731 42.5456 16.2688 42.6371C18.2689 42.7281 18.9075 42.7504 23.9994 42.7504C29.0921 42.7504 29.7292 42.7281 31.7291 42.6371C33.7253 42.5456 35.0893 42.2297 36.2824 41.766C37.5152 41.2871 38.5597 40.6449 39.6015 39.6019C40.6446 38.5598 41.2851 37.5137 41.7656 36.2809C42.2265 35.0882 42.543 33.7252 42.6367 31.7299C42.7266 29.73 42.75 29.0925 42.75 24.0002C42.75 18.9079 42.7266 18.2689 42.6367 16.2688C42.543 14.2727 42.2265 12.9103 41.7656 11.7182C41.2851 10.4848 40.6446 9.43875 39.6015 8.39644C38.5586 7.35356 37.5156 6.71287 36.2812 6.23456C35.0859 5.77069 33.7226 5.45456 31.7265 5.36325C29.7264 5.27231 29.0897 5.25 23.9959 5.25H24.0017ZM22.3196 8.62894C22.8189 8.62819 23.376 8.62894 24.0017 8.62894C29.0081 8.62894 29.6014 8.64694 31.5784 8.73675C33.4065 8.82038 34.3988 9.12581 35.0597 9.3825C35.9348 9.72225 36.5586 10.1286 37.2144 10.785C37.8707 11.4413 38.2768 12.0662 38.6175 12.9412C38.8742 13.6012 39.18 14.5935 39.2633 16.4216C39.3531 18.3983 39.3726 18.9919 39.3726 23.9959C39.3726 28.9999 39.3531 29.5937 39.2633 31.5701C39.1796 33.3982 38.8742 34.3905 38.6175 35.0507C38.2778 35.9257 37.8707 36.5488 37.2144 37.2047C36.5582 37.8609 35.9351 38.2671 35.0597 38.607C34.3995 38.8648 33.4065 39.1695 31.5784 39.2531C29.6017 39.3429 29.0081 39.3624 24.0017 39.3624C18.9951 39.3624 18.4016 39.3429 16.4252 39.2531C14.5971 39.1688 13.6048 38.8633 12.9433 38.6066C12.0684 38.2667 11.4433 37.8606 10.7871 37.2043C10.1308 36.5481 9.72469 35.9246 9.384 35.0492C9.12731 34.389 8.8215 33.3967 8.73825 31.5686C8.64844 29.592 8.63044 28.9984 8.63044 23.9912C8.63044 18.9842 8.64844 18.3936 8.73825 16.4169C8.82188 14.5888 9.12731 13.5966 9.384 12.9356C9.72394 12.0606 10.1308 11.4356 10.7873 10.7794C11.4435 10.1231 12.0684 9.71681 12.9435 9.37631C13.6044 9.1185 14.5971 8.81381 16.4252 8.72981C18.1549 8.65162 18.8252 8.62819 22.3196 8.62425V8.62894ZM34.0104 11.7422C32.7683 11.7422 31.7604 12.7491 31.7604 13.9914C31.7604 15.2336 32.7683 16.2414 34.0104 16.2414C35.2526 16.2414 36.2604 15.2336 36.2604 13.9914C36.2604 12.7493 35.2526 11.7414 34.0104 11.7414V11.7422ZM24.0017 14.3711C18.6842 14.3711 14.3728 18.6825 14.3728 24.0002C14.3728 29.3179 18.6842 33.6272 24.0017 33.6272C29.3194 33.6272 33.6293 29.3179 33.6293 24.0002C33.6293 18.6827 29.319 14.3711 24.0013 14.3711H24.0017ZM24.0017 17.7501C27.4534 17.7501 30.2518 20.5481 30.2518 24.0002C30.2518 27.4519 27.4534 30.2503 24.0017 30.2503C20.5498 30.2503 17.7518 27.4519 17.7518 24.0002C17.7518 20.5481 20.5498 17.7501 24.0017 17.7501Z" fill="white"></path></g><defs><radialGradient id="paint0_radial_37_8" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12.75 51.6969) rotate(-90) scale(47.5716 44.2453)"><stop stop-color="#FFDD55"></stop><stop offset="0.1" stop-color="#FFDD55"></stop><stop offset="0.5" stop-color="#FF543E"></stop><stop offset="1" stop-color="#C837AB"></stop></radialGradient><radialGradient id="paint1_radial_37_8" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-8.04019 3.45769) rotate(78.681) scale(21.2648 87.654)"><stop stop-color="#3771C8"></stop><stop offset="0.128" stop-color="#3771C8"></stop><stop offset="1" stop-color="#6600FF" stop-opacity="0"></stop></radialGradient><clipPath id="clip0_37_8"><rect width="48" height="48" fill="white"></rect></clipPath></defs></svg>
+                                </i>
+                            </a>
+                            <a href="https://www.tiktok.com/@silkroadmultilingual.kz">
+                                <i class="hs hs-tiktok">
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256" width="32px" height="32px"><g transform="translate(-40.96,-40.96) scale(1.32,1.32)"><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(5.33333,5.33333)"><path d="M10.904,6h26.191c2.709,0 4.905,2.196 4.905,4.904v26.191c0,2.709 -2.196,4.905 -4.904,4.905h-26.192c-2.708,0 -4.904,-2.196 -4.904,-4.904v-26.192c0,-2.708 2.196,-4.904 4.904,-4.904z" fill="#212121"></path><path d="M29.208,20.607c1.576,1.126 3.507,1.788 5.592,1.788v-4.011c-0.395,0 -0.788,-0.041 -1.174,-0.123v3.157c-2.085,0 -4.015,-0.663 -5.592,-1.788v8.184c0,4.094 -3.321,7.413 -7.417,7.413c-1.528,0 -2.949,-0.462 -4.129,-1.254c1.347,1.376 3.225,2.23 5.303,2.23c4.096,0 7.417,-3.319 7.417,-7.413v-8.183zM30.657,16.561c-0.805,-0.879 -1.334,-2.016 -1.449,-3.273v-0.516h-1.113c0.28,1.597 1.236,2.962 2.562,3.789zM19.079,30.832c-0.45,-0.59 -0.693,-1.311 -0.692,-2.053c0,-1.873 1.519,-3.391 3.393,-3.391c0.349,0 0.696,0.053 1.029,0.159v-4.1c-0.389,-0.053 -0.781,-0.076 -1.174,-0.068v3.191c-0.333,-0.106 -0.68,-0.159 -1.03,-0.159c-1.874,0 -3.393,1.518 -3.393,3.391c0.001,1.325 0.76,2.472 1.867,3.03z" fill="#ec407a"></path><path d="M28.034,19.63c1.576,1.126 3.507,1.788 5.592,1.788v-3.157c-1.164,-0.248 -2.194,-0.856 -2.969,-1.701c-1.326,-0.827 -2.281,-2.191 -2.561,-3.788h-2.923v16.018c-0.007,1.867 -1.523,3.379 -3.393,3.379c-1.102,0 -2.081,-0.525 -2.701,-1.338c-1.107,-0.558 -1.866,-1.705 -1.866,-3.029c0,-1.873 1.519,-3.391 3.393,-3.391c0.359,0 0.705,0.056 1.03,0.159v-3.19c-4.024,0.083 -7.26,3.369 -7.26,7.411c0,2.018 0.806,3.847 2.114,5.183c1.18,0.792 2.601,1.254 4.129,1.254c4.096,0 7.417,-3.319 7.417,-7.413l-0.002,-8.185z" fill="#ffffff"></path><path d="M33.626,18.262v-0.854c-1.05,0.002 -2.078,-0.292 -2.969,-0.848c0.788,0.863 1.826,1.458 2.969,1.702zM28.095,12.772c-0.027,-0.153 -0.047,-0.306 -0.061,-0.461v-0.516h-4.036v16.019c-0.006,1.867 -1.523,3.379 -3.393,3.379c-0.549,0 -1.067,-0.13 -1.526,-0.362c0.62,0.813 1.599,1.338 2.701,1.338c1.87,0 3.386,-1.512 3.393,-3.379v-16.018zM21.635,21.38v-0.909c-0.337,-0.046 -0.677,-0.069 -1.018,-0.069c-4.097,0 -7.417,3.319 -7.417,7.413c0,2.567 1.305,4.829 3.288,6.159c-1.308,-1.336 -2.114,-3.165 -2.114,-5.183c0,-4.042 3.237,-7.328 7.261,-7.411z" fill="#81d4fa"></path></g></g></g></svg>
+                                </i>
+                            </a>
+                    </div>
+            
+                    <!-- Til tanlash -->
+                    <div class="ht-language-select">
+                        <select id="language-selector">
+                            <option value="ru">🇷🇺 Русский</option>
+                            <option value="kz">🇰🇿 Қазақ</option>
+                            <option value="en">🇬🇧 English</option>
+                        </select>
+                    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="logo">
+                            <a href="/"><img src="/static/assets/img/logo/cropped-lgo.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="main-menu">
+                            <nav>
+                                <ul>
+                                    <li><a data-translate="header.nav_home" href="/"></a></li>
+                                    <li><a data-translate="header.nav_service" href="/service"></a></li>
+                                    <!-- <li><a href="portfolio.html">Проекты</a></li> -->
+                                    <li><a data-translate="header.nav_about" href="/about"></a></li>
+                                    <li><a data-translate="header.nav_contact" href="/contact"></a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="mobile-menu"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- header area end -->
+    <!--Slider Area Start------------------------------------------------------------------------------------------------------>
+    <div class="hero">
+        <div class="background"></div>
+        <div class="container">
+            <div class="text-content">
+                <h1 data-translate="intro.title"></h1>
+                <p data-translate="intro.text"></p>
+                <a href="tel:+77077501545" data-translate="intro.phone_btn" class="btn"></a>
+                <a style="margin-left: 15px;" data-translate="intro.service_btn" href="/service" class="btn"></a>
+            </div>
+            <div class="form-container">
+                <form id="introServiceForm" class="form">
+                    <label data-translate="intro.f_name_l" class="re-label">ФИО *</label>
+                    <input data-translate="intro.f_name_p" class="re-input" type="text" name="full_name" id="full_name" placeholder="Ф.И.О" oninvalid="setValidationMessage(this)" oninput="this.setCustomValidity('')" required>
+        
+                    <label data-translate="intro.f_phone_l" class="re-label">Номер телефона *</label>
+                    <input data-translate="intro.f_phone_p" class="re-input" type="tel" name="phone" id="phone" placeholder="Ваш телефон" oninvalid="setValidationMessage(this)" oninput="this.setCustomValidity('')" required>
+        
+                    <label data-translate="intro.f_email_l" class="re-label">Email *</label>
+                    <input data-translate="intro.f_email_p" class="re-input" type="email" name="email" id="email" placeholder="Email" oninvalid="setValidationMessage(this)" oninput="this.setCustomValidity('')" required>
+        
+                    <label data-translate="intro.f_choose_l" class="re-label">Тип услуги</label>
+                    <select name="service" id="service" class="re-input">
+                        <option data-translate="intro.f_option_1"></option>
+                        <option data-translate="intro.f_option_2"></option>
+                        <option data-translate="intro.f_option_3"></option>
+                        <option data-translate="intro.f_option_4"></option>
+                        <option data-translate="intro.f_option_5"></option>
+                        <option data-translate="intro.f_option_6"></option>
+                        <option data-translate="intro.f_option_7"></option>
+                    </select>
+        
+                    <button data-translate="intro.f_btn" type="submit"></button>
+                </form>
+                <p style="margin-top: 15px;" id="responseMessage"></p>
+            </div>
+        </div>
+    </div>
+    <!--Slider Area End------------------------------------------------------------------------------------------------------------>
+    <!--Feature Area Start-->
+    <!-- <div id="feature" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="signle-box">
+                        <i class="fa fa-diamond"></i>
+                        <h2>About Our Business</h2>
+                        <div class="separator"></div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, odio quod. Sed harum deserunt, vero.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="signle-box">
+                        <i class="fa fa-connectdevelop"></i>
+                        <h2>About Our Vision</h2>
+                        <div class="separator"></div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, odio quod. Sed harum deserunt, vero.</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="signle-box">
+                        <i class="fa fa-tachometer"></i>
+                        <h2>About Our Mission</h2>
+                        <div class="separator"></div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor, odio quod. Sed harum deserunt, vero.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!--Feature Area End-->
+    <!--Service Area Start-->
+    <div class="section-padding gray-bg service-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <div class="section-title text-center">
+                        <h2 data-translate="our_services.title"></h2>
+                        <p data-translate="our_services.text"></p>
+                        <div class="separator"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-4">
+                <div class="col-md-4 col-sm-6 d-flex align-items-stretch">
+                    <div class="single-service p-3 shadow-lg w-100">
+                        <div class="icon">
+                            <i class="fa fa-book"></i>
+                        </div>
+                        <h2 data-translate="our_services.card_title_1"></h2>
+                        <p data-translate="our_services.card_text_1"></p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 d-flex align-items-stretch">
+                    <div class="single-service p-3 shadow-lg w-100">
+                        <div class="icon">
+                            <i class="fa fa-desktop"></i>
+                        </div>
+                        <h2 data-translate="our_services.card_title_2"></h2>
+                        <p data-translate="our_services.card_text_2"></p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 d-flex align-items-stretch">
+                    <div class="single-service p-3 shadow-lg w-100">
+                        <div class="icon">
+                            <i class="fa fa-area-chart"></i>
+                        </div>
+                        <h2 data-translate="our_services.card_title_3"></h2>
+                        <p data-translate="our_services.card_text_3"></p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 d-flex align-items-stretch">
+                    <div class="single-service p-3 shadow-lg w-100">
+                        <div class="icon">
+                            <i class="fa fa-pie-chart"></i>
+                        </div>
+                        <h2 data-translate="our_services.card_title_4"></h2>
+                        <p data-translate="our_services.card_text_4"></p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 d-flex align-items-stretch">
+                    <div class="single-service p-3 shadow-lg w-100">
+                        <div class="icon">
+                            <i class="fa fa-object-group"></i>
+                        </div>
+                        <h2 data-translate="our_services.card_title_5"></h2>
+                        <p data-translate="our_services.card_text_5"></p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 d-flex align-items-stretch">
+                    <div class="single-service p-3 shadow-lg w-100">
+                        <div class="icon">
+                            <i class="fa fa-university"></i>
+                        </div>
+                        <h2 data-translate="our_services.card_title_6"></h2>
+                        <p data-translate="our_services.card_text_6"></p>
+                    </div>
+                </div>
+            </div>        
+            
+        </div>
+    </div>
+    <!--Service Area End-->
+    <!--about-area Start-->
+    <div class="about-area">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="/static/assets/img/bg/about-bg.jpg" alt="">
+                </div>
+                <div class="col-md-6">
+                    <div class="about-content">
+                        <h2 data-translate="why_us.title"></h2>
+                        <p data-translate="why_us.text"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Call to Action Start-->
+    <div class="section-padding colto-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 data-translate="free_consultation.title"></h2>
+                    <p data-translate="free_consultation.text"></p>
+                    <a data-translate="free_consultation.btn" class="colto-btn" href="/contact"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Call to Action End-->
+
+    <!--Call to Action Start-->
+    <div class="section-padding col-to-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-7">
+                    <div class="col-to-text">
+                        <h2 data-translate="contact_via_whatsapp.title"></h2>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-5 text-right">
+                    <a data-translate="contact_via_whatsapp.btn" href="https://wa.me/77077501545" class="colto-btn"><i class="fa fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Call to Action End-->
+    <!--Testimonial Area Start-->
+    <div class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <div class="section-title text-center">
+                        <h2 data-translate="reviews.title"></h2>
+                        <p data-translate="reviews.text"></p>
+                        <div class="separator"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="testimonial-active">
+                    <!--Testimonial Block-->
+                    <div class="my-testimonial">
+                        <div class="inner-content">
+                            <div class="content">
+                                <div class="image-box"><img src="/static/assets/img/team/user_icon.png" alt="" /></div>
+                                <div class="quote-icon"><i class="fa fa-quote-right"></i></div>
+                                <h4 data-translate="reviews.employee_name_2"></h4>
+                                <div class="designation"></div>
+                                <div data-translate="reviews.employee_about_2" class="text"></div>
+                                <div class="rating">
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="my-testimonial">
+                        <div class="inner-content">
+                            <div class="content">
+                                <div class="image-box"><img src="/static/assets/img/team/user_icon.png" alt="" /></div>
+                                <div class="quote-icon"><i class="fa fa-quote-right"></i></div>
+                                <h4 data-translate="reviews.employee_name_1"></h4>
+                                <div class="designation"></div>
+                                <div data-translate="reviews.employee_about_1" class="text"></div>
+                                <div class="rating">
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="my-testimonial">
+                        <div class="inner-content">
+                            <div class="content">
+                                <div class="image-box"><img src="/static/assets/img/team/user_icon.png" alt="" /></div>
+                                <div class="quote-icon"><i class="fa fa-quote-right"></i></div>
+                                <h4 data-translate="reviews.employee_name_3"></h4>
+                                <div class="designation"></div>
+                                <div data-translate="reviews.employee_about_3" class="text"></div>
+                                <div class="rating">
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Testimonial Area End-->
+    <!-- counter section start-->
+    <div class="counter-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-counter">
+                        <div class="separator"></div>
+                        <i class="fa fa-briefcase"></i>
+                        <span>20+</span>
+                        <p data-translate="company_in_numbers.partners"></p>
+                        <div class="separator"></div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-counter">
+                        <div class="separator"></div>
+                        <i class="fa fa-user"></i>
+                        <span>150+</span>
+                        <p data-translate="company_in_numbers.translators"></p>
+                        <div class="separator"></div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-counter">
+                        <div class="separator"></div>
+                        <i class="fa fa-share-alt"></i>
+                        <span>100%</span>
+                        <p data-translate="company_in_numbers.individual_approach"></p>
+                        <div class="separator"></div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-counter">
+                        <div class="separator"></div>
+                        <i class="fa fa-star"></i>
+                        <span>50+</span>
+                        <p data-translate="company_in_numbers.clients"></p>
+                        <div class="separator"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Counter Section End-->
+    <!--Team Area Strat -->
+    <div id="team" class="section-padding gray-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <div class="section-title text-center">
+                        <h2 data-translate="our_team.title"></h2>
+                        <p data-translate="our_team.text"></p>
+                        <div class="separator"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row byui-team-row">
+                <div class="col-md-3 col-xs-6">
+                    <div class="single-team">
+                        <div class="team-img">
+                            <img src="/static/assets/img/team/team_01.png" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h2 data-translate="our_team.employee_name_5"></h2>
+                            <p data-translate="our_team.employee_about_5"></p>
+                        </div>
+                        <div class="separator"></div>
+   
+                    </div>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <div class="single-team">
+                        <div class="team-img">
+                            <img src="/static/assets/img/team/team_4.png" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h2 data-translate="our_team.employee_name_1"></h2>
+                            <p data-translate="our_team.employee_about_1"></p>
+                        </div>
+                        <div class="separator"></div>
+
+                    </div>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <div class="single-team">
+                        <div class="team-img">
+                            <img src="/static/assets/img/team/team_1.png" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h2 data-translate="our_team.employee_name_2"></h2>
+                            <p data-translate="our_team.employee_about_2"></p>
+                        </div>
+                        <div class="separator"></div>
+
+                    </div>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <div class="single-team">
+                        <div class="team-img">
+                            <img src="/static/assets/img/team/team_3.png" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h2 data-translate="our_team.employee_name_3"></h2>
+                            <p data-translate="our_team.employee_about_3"></p>
+                        </div>
+                        <div class="separator"></div>
+
+                    </div>
+                </div>
+                <div class="col-md-3 col-xs-6">
+                    <div class="single-team">
+                        <div class="team-img">
+                            <img src="/static/assets/img/team/team_2.png" alt="">
+                        </div>
+                        <div class="team-info">
+                            <h2 data-translate="our_team.employee_name_4"></h2>
+                            <p data-translate="our_team.employee_about_4"></p>
+                        </div>
+                        <div class="separator"></div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Team Area End -->
+    <div id="blog" class="section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <div class="section-title text-center">
+                        <h2 data-translate="our_news.title"></h2>
+                        <p data-translate="our_news.text"></p>
+                        <div class="separator"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-blog">
+                        <div class="blog-thumb">
+                            <img src="/static/assets/img/blog/news_1.webp" alt="">
+
+                        </div>
+                        <div class="blog-info">
+                            <div class="blog-meta">
+                            </div>
+                            <div class="blog-title">
+                                <h2 data-translate="our_news.news_title_1"></h2>
+                                <p data-translate="our_news.news_text_1"></p>
+                            </div>
+                            <a href="https://www.instagram.com/silk_road_multilingual.kz/" class="log-btn"><span data-translate="our_news.btn"></span><i class="fa fa-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-blog">
+                        <div class="blog-thumb">
+                            <img src="/static/assets/img/blog/news_2.png" alt="">
+
+                        </div>
+                        <div class="blog-info">
+                            <div class="blog-meta">
+                            </div>
+                            <div class="blog-title">
+                                <h2 data-translate="our_news.news_title_2"></h2>
+                                <p data-translate="our_news.news_text_2"></p>
+                            </div>
+                            <a href="https://www.facebook.com/people/Silk-Road-Multilingual-KZ/61557873156209/" class="log-btn"><span data-translate="our_news.btn"></span><i class="fa fa-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-blog">
+                        <div class="blog-thumb">
+                            <img src="/static/assets/img/blog/news_3.png" alt="">
+                        </div>
+                        <div class="blog-info">
+                            <div class="blog-meta">
+                            </div>
+                            <div class="blog-title">
+                                <h2 data-translate="our_news.news_title_3"></h2>
+                                <p data-translate="our_news.news_text_3"></p>
+                            </div>
+                            <a href="https://www.instagram.com/silk_road_multilingual.kz/" class="log-btn"><span data-translate="our_news.btn"></span><i class="fa fa-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section-padding our-contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3">
+                    <div class="section-title text-center">
+                        <h2 data-translate="our_contact.title"></h2>
+                        <p data-translate="our_contact.text"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="contact-info-area">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="single-contact">
+                            <div class="icon">
+                                <i class="fa fa-globe"></i>
+                            </div>
+                            <span data-translate="our_contact.con_title_1"></span>
+                            <p data-translate="our_contact.address"></p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="single-contact">
+                            <div class="icon">
+                                <i class="fa fa-phone"></i>
+                            </div>
+                            <span data-translate="our_contact.con_title_2"></span> 
+                            <p>+7 (707) 750-15-45</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="single-contact">
+                            <div class="icon">
+                                <i class="fa fa-envelope-o"></i>
+                            </div>
+                            <span>Email</span> 
+                            <p>info@silkroadmultilingual.kz</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="single-contact">
+                            <div class="icon">
+                                <i class="fa fa-phone"></i>
+                            </div>
+                            <span data-translate="our_contact.con_title_4"></span>
+                            <p>+7 (705) 701-56-16</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Contact Section Area End -->
+    <!--    Footer Satart-->
+    <div class="section-padding footer-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-footer">
+                        <h2 data-translate="footer.col_title_1"></h2>
+                        <p data-translate="footer.col_text_1"></p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-footer">
+                        <div class="latest-post">
+                            <h2 data-translate="footer.col_title_2"></h2>
+                            <div class="post-content">
+                                <a data-translate="our_news.news_title_1" href="https://www.instagram.com/silk_road_multilingual.kz/" class="Post-title"></a>
+                                <!-- <p>May 8, 2017</p> -->
+                            </div>
+                            <div class="post-content">
+                                <a data-translate="our_news.news_title_2" href="https://www.facebook.com/people/Silk-Road-Multilingual-KZ/61557873156209/" class="Post-title"></a>
+                                <!-- <p>May 8, 2017</p> -->
+                            </div>
+                            <div class="post-content">
+                                <a data-translate="our_news.news_title_3" href="https://www.instagram.com/silk_road_multilingual.kz/" class="Post-title"></a>
+                                <!-- <p>May 8, 2017</p> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-footer">
+                        <div class="useful-link">
+                            <h2 data-translate="footer.col_title_3"></h2>
+                            <ul>
+                                <li><a data-translate="header.nav_home" href="/"></a><i class="fa fa-angle-right"></i> </li>
+                                <li><a data-translate="header.nav_service" href="/service"></a><i class="fa fa-angle-right"></i></li>
+                                <!-- <li><a href="portfolio.html">Проекты</a><i class="fa fa-angle-right"></i></li> -->
+                                <li><a data-translate="header.nav_about" href="/about"></a><i class="fa fa-angle-right"></i></li>
+                                <li><a data-translate="header.nav_contact" href="/contact"></a><i class="fa fa-angle-right"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- TEMPORARILY DISABLED by (UI) -->
+                <!-- <div class="col-md-3 col-sm-6">
+                    <div class="single-footer">
+                        <div class="gallery-img">
+                            <h2>Portfolio Gallery</h2>
+                            <img src="assets/img/team/team-1.jpg" alt="">
+                            <img src="assets/img/team/team-2.jpg" alt="">
+                            <img src="assets/img/team/team-3.jpg" alt="">
+                            <img src="assets/img/team/team-1.jpg" alt="">
+                            <img src="assets/img/team/team-2.jpg" alt="">
+                            <img src="assets/img/team/team-3.jpg" alt="">
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <!-- Footer Bottom Start-->
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <p class="copy-write">
+                        © Copyright 2025 Silk Road Multilingual
+                    </p>
+                </div>
+                <!-- <div class="col-md-6 ">
+                    <div class="footer-bottom-menu">
+                        <ul>
+                            <li><a href="index.html">Privacy Policy</a></li>
+                            <li><a href="index.html">Terms of Use</a></li>
+                            <li><a href="index.html">License</a></li>
+                            <li><a href="index.html">Support</a></li>
+                        </ul>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <!-- Footer Bottom End-->
+
+    <!-- Bootstrap JS -->
+    <script src="/static/assets/js/bootstrap.min.js"></script>
+    <!-- Mobile Menu JS -->
+    <script src="/static/assets/js/jquery.meanmenu.js"></script>
+    <!-- Owl Carousel JS -->
+    <script src="/static/assets/js/owl.carousel.min.js"></script>
+    <!-- scrollUp JS -->
+    <script src="/static/assets/js/jquery.scrollUp.js"></script>
+    <!-- WOW JS -->
+    <script src="/static/assets/js/wow-1.3.0.min.js"></script>
+    <!-- countdown JS -->
+    <script src="/static/assets/js/counterup.min.js"></script>
+    <!-- Waypoints JS -->
+    <script src="/static/assets/js/waypoints.js"></script>
+    <!-- ajax-mail JS -->
+    <script src="/static/assets/js/ajax-mail.js"></script>
+    <!-- Active JS -->
+    <script src="/static/assets/js/active.js"></script>
+
+
+    <!-- CUSTOM_LANG.js -->
+
+    <script type="module" src="/static/assets/js/intro_mail.js"></script>
+    <script src="/static/assets/js/lang.js"></script>
+
+    <script>
+        function setValidationMessage(input) {
+            let selectedLang = localStorage.getItem("selectedLanguage") || "ru"; 
+
+            let messages = {
+                ru: "Пожалуйста, заполните это поле.",
+                en: "Please fill out this field",
+                kz: "Осы өрісті толтырыңыз."
+            };
+
+            input.setCustomValidity(messages[selectedLang] || messages["ru"]);
+        }
+    </script>
+
+</body>
+
+</html>

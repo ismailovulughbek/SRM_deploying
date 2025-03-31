@@ -1,0 +1,548 @@
+{
+    "ru": {
+        "header": {
+            "nav_home": "Главная",
+            "nav_about": "О нас",
+            "nav_contact": "Контакты",
+            "nav_service": "Услуги"
+        },
+
+        "intro":{
+            "title": "Где встречаются языки, начинается взаимопонимание",
+            "text": "Свяжитесь с нами, чтобы узнать больше о наших услугах и о том, как мы можем вам помочь.",
+            "service_btn": "УСЛУГИ",
+            "phone_btn": "НАБЕРИТЕ НАС",
+
+            "f_name_l":"ФИО *",
+            "f_phone_l":"Номер телефона *",
+            "f_email_l":"Email *",
+            "f_choose_l":"Тип услуги *",
+
+            "f_name_p":"ФИО",
+            "f_phone_p":"Ваш номер телефона",
+            "f_email_p":"Email",
+
+            "f_option_1":"Туристическая виза",
+            "f_option_2":"Рабочая виза",
+            "f_option_3":"Студенческая виза",
+            "f_option_4":"Дистанционное истребование документов",
+            "f_option_5":"Сертифицированный перевод",
+            "f_option_6":"Доверенности для заграницы",
+            "f_option_7":"Апостилирование / Легализация",
+
+            "f_btn": "Отправить"
+
+        },
+
+        "about_page":{
+            "service": "Наши услуги",
+            "about_us": "О нас",
+            "contact": "Наши контакты"
+        },
+
+        "our_services":{
+            "title": "Наши услуги",
+            "text": "Наша команда высококвалифицированных специалистов предоставит вам услуги на профессиональном уровне, обеспечив надежность и точность в работе с вашими документами.",
+
+            "card_title_1":"Рабочие, туристические и студенческие визы",
+            "card_title_2":"Обучение за рубежом",
+            "card_title_3":"Дистанционное истребование документов",
+            "card_title_4":"Сертифицированный письменный перевод",
+            "card_title_5":"Доверенности для заграницы",
+            "card_title_6":"Апостилирование и легализация документов",
+
+            "card_text_1":"Мы помогаем оформлять рабочие, туристические и студенческие визы в страны Европы, Азии, Америки и других уголков мира.",
+            "card_text_2":"Мы помогаем выбрать подходящую образовательную программу и подготовить документы для поступления в лучшие учебные заведения Малайзии, Таиланда, США и других стран.",
+            "card_text_3":"Наша команда опытных специалистов эффективно и быстро обеспечит получение нужных документов, соблюдая все законодательные нормы и требования.",
+            "card_text_4":"Наши сертифицированные переводчики выполнят письменный перевод с высокой точностью и соблюдением всех юридических стандартов.",
+            "card_text_5":"Мы предоставляем услугу оформления доверенности для заграницы, обеспечивая соответствие всем международным нормам и требованиям.",
+            "card_text_6":"Мы поможем легализовать и апостилировать ваши документы, обеспечив их признание и юридическую силу за рубежом.",
+
+            "three_card_title_1": "О нас",
+            "three_card_title_2": "Почему мы?",
+            "three_card_title_3": "Наша миссия",
+
+            "three_card_text_1": "Компания была основана в Хьюстоне, штат Техас, и теперь у нас есть филиал в Алматы, Казахстан. Мы предоставляем широкий спектр услуг: оформление виз, помощь с поступлением в учебные заведения и легализация документов. С нами вы получите поддержку профессионалов и уверенность в верности каждого шага.",
+            "three_card_text_2": "Мы понимаем, с какими трудностями люди сталкиваются при работе с документами, и стремимся создать комфортные условия для их решения. Наша команда работает с полной отдачей, чтобы каждая ваша задача была решена на высшем уровне. Мы заботимся о том, чтобы вы чувствовали себя понятыми и ценными.",
+            "three_card_text_3": "Мы помогаем частным лицам и компаниям решать важные задачи, предлагая доступные и качественные услуги в сфере виз, образования и трудоустройства за рубежом. Мы стремимся упростить процесс получения документов и разрешений."
+
+        },
+
+        "why_us":{
+            "title":"Почему выбирают нас?",
+            "text": "<b>Поддержка клиентов</b><br>Мы здесь, чтобы облегчить вашу жизнь и сэкономить ваше время. Каждому клиенту мы предлагаем персонализированное сопровождение на всех этапах — от консультации до успешного завершения процесса.<br><br><b>Опыт и профессионализм</b><br>Наша команда — это эксперты, которые знают, как быстро и эффективно решить самые сложные задачи. Мы даем качественные и безопасные решения для каждого клиента.<br><br><b>Международное партнерство</b><br>Мы работаем с университетами и работодателями по всему миру, что открывает для вас широкий выбор возможностей для обучения и трудоустройства за рубежом. Наши партнеры доверяют нам, потому что мы понимаем, как важно предоставлять качественные и своевременные услуги.<br><br><b>Бесплатная консультация</b><br>Мы предоставляем бесплатные консультации, помогаем выбрать оптимальное решение и даем ясные рекомендации, чтобы вы точно понимали, какие шаги нужно предпринять."
+        },
+
+        "about_us":{
+            "title": "О нас",
+            "text": "Наша команда высококвалифицированных специалистов предоставит вам услуги на профессиональном уровне, обеспечив надежность и точность в работе с вашими документами.",
+
+            "our_strengths_title":"Наши сильные стороны",
+            "our_strengths_text": "<b>Персонализированный подход:</b><br>Мы не просто предоставляем стандартные услуги, а разрабатываем решения, идеально подходящие именно вам.<br><br><b>Гибкость и оперативность:</b><br>Мы ценим ваше время и гарантируем быструю реакцию, решая вопросы в самые краткие сроки.<br><br><b>Широкая сеть партнеров:</b><br>Мы сотрудничаем с ведущими университетами и работодателями, что позволяет предложить уникальные возможности для учебы и работы за рубежом."
+        },
+
+        "free_consultation":{
+            "title": "Бесплатная консультация",
+            "text": "Запишитесь на бесплатную консультацию и получите квалифицированную помощь специалистов.",
+            "btn": "Свяжитесь с нами"
+        },
+
+        "contact_via_whatsapp":{
+            "title": "Свяжитесь с нами через WhatsApp",
+            "btn": "Связаться с нами"
+        },
+
+        "reviews":{
+            "title":"Отзывы",
+            "text":"Мы рады, что наши клиенты остаются довольны результатами нашей работы. Ознакомьтесь с их отзывами и узнайте, как мы помогли им успешно решить их задачи.",
+
+            "employee_name_1": "Ирина З.",
+            "employee_name_2": "Макс С.",
+            "employee_name_3": "Эльмира Б.",
+
+            "employee_about_1": "У меня был выдающийся опыт работы с Silk Road Multilingual при получении визы для моей семьи. От первоначальной консультации до окончательного одобрения их команда продемонстрировала профессионализм и опыт. Они нашли время, чтобы понять мою уникальную ситуацию, и адаптировали свои услуги к нашим конкретным потребностям, что имело огромное значение.Я настоятельно рекомендую их услуги всем, кто нуждается в визовой помощи. Их преданность удовлетворению потребностей клиентов и их опыт поистине первоклассны!",
+            "employee_about_2": "После тщетных попыток получить информацию, а в последствии необходимые бумаги связанные с семейным вопросом я воспользовался услугами команды Silk Road Multilingual, в частности - дистанционного истребования документов и апостиля из США и был полностью впечатлен. Процесс оказался невероятно эффективным и удобным, что позволило мне получить необходимые документы без необходимости путешествовать. Команда Silk Road Multilingual продемонстрировала отличную коммуникацию и оперативность. Обслуживание было безупречным и беспроблемным, что сэкономило мне драгоценное время и усилия. Я настоятельно рекомендую Silk Road Multilingual всем, кто ищет удаленные услуги по оформлению документов, особенно тем, кому нужны документы из США.",
+            "employee_about_3": "С компанией Silk Road Multilingual, мы сотрудничаем уже много лет, и за это время они зарекомендовали себя как надежный и высококвалифицированный партнер. Профессионализм их команды, гибкость и готовность решать любые задачи на высшем уровне всегда радуют. Мы ценим долгосрочное сотрудничество и уверены, что совместные проекты будут и дальше приносить отличные результаты."
+        },
+
+        "company_in_numbers":{
+            "partners": "СТРАН С МЕЖДУНАРОДНЫМИ ПАРТНЕРАМИ",
+            "translators": "ПРОФЕССИОНАЛЬНЫХ ПЕРЕВОДЧИКОВ",
+            "individual_approach": "ИНДИВИДУАЛЬНЫЙ ПОДХОД",
+            "clients": "СТРАН С НАШИМИ КЛИЕНТАМИ"
+        },
+
+        "our_team":{    
+            "title":"Наша команда",
+            "text":"Наша команда опытных специалистов всегда готова помочь вам в решении любых задач.",
+
+            "employee_name_1": "Мария Ибрагим",
+            "employee_name_2": "Бриза Солис",
+            "employee_name_3": "Маргарита Рыбалова",
+            "employee_name_4": "Жасмин Джанабаева",
+            "employee_name_5": "Кундыз Смит",
+
+            "employee_about_1": "Переводчик<br> Публичный нотариус штата Техас<br> Менеджер по оперативной деятельности<br><br>Языки: Арабский, Французский, Английский",
+            "employee_about_2": "Переводчик<br> Публичный нотариус штата Техас<br><br>Языки: Испанский, Английский",
+            "employee_about_3": "Специалист по работе с документами<br> Специалист по визовым вопросам<br><br> Языки: Русский, Английский",
+            "employee_about_4": "Стажёр<br><br> Языки: Казахский, Английский",
+            "employee_about_5": "Переводчик<br> Публичный нотариус штата Техас<br><br> Языки: Казахский, Русский, Английский"
+
+        },
+
+        "our_news":{
+            "title": "Наши последние новости",
+            "text": "Переходите по кнопкам ниже, чтобы следить за нашими обновлениями в Instagram!",
+
+            "news_title_1":"Наш офис в Алматы открыт!",
+            "news_title_2":"Сотрудничество с зарубежными университетами",
+            "news_title_3":"Подписывайтесь на наш Instagram!",
+
+            "news_text_1":"Мы рады сообщить, что теперь наш офис находится в Алматы, по адресу: ул. Ауэзова, 145В. Это удобное расположение позволяет вам легко нас найти и посетить. Приглашаем вас ознакомиться с нашими услугами и задать все интересующие вопросы!",
+            "news_text_2":"Мы гордимся началом сотрудничества с ведущими университетами Таиланда и Малайзии! Мы тщательно отобрали только лучшие учебные заведения, которые соответствуют британским образовательным стандартам. Более того, все они предлагают программы двойного диплома, что дает нашим клиентам уникальные возможности для получения международного образования. Мы лично посетили эти университеты, чтобы удостовериться в их высоком уровне и качестве обучения. Следите за новостями, чтобы узнать подробности о предстоящих проектах и инициативах.",
+            "news_text_3":"Не пропустите важные обновления и интересные факты! Мы ведем рубрику с увлекательными и полезными постами, чтобы всегда держать вас в курсе событий. Подписывайтесь на наш Instagram и следите за новостями!",
+
+            "btn": "Узнать больше"
+        },
+
+        "our_contact":{
+            "title":"Наши контакты",
+            "text":"Свяжитесь с нами сегодня, чтобы получить квалифицированную помощь от наших специалистов.",
+
+            "con_title_1": "Наш адрес",
+            "con_title_2": "Номер телефона",
+            "con_title_3": "Email",
+            "con_title_4": "Номер казахоговорящего специалиста",
+
+            "address":"ул. Ауэзова д. 145в офис 212 (угол ул. Жандосова)",
+
+
+            "f_title":"Свяжитесь с нами",
+            "f_name":"Ваше имя",
+            "f_lastname":"Ваша фамилия",
+            "f_email":"Ваш Email",
+            "f_phone":"Ваш номер телефона",
+            "f_message":"Введите ваше сообщение",
+
+            "f_btn":"Отправить сообщение"
+
+        },
+
+        "footer":{
+            "col_title_1":"О компании",
+            "col_title_2":"Наши последние новости",
+            "col_title_3":"Полезные ссылки",
+
+            "col_text_1":" Компания Silk Road Multilingual предоставляет широкий спектр услуг, направленных на решение важных вопросов, связанных с визами, образованием и трудоустройством за рубежом. Мы работаем с частными клиентами и организациями, помогая упростить процесс получения документов, виз и разрешений для учебы и работы за границей.Мы создаём комфортные условия для каждого клиента, понимаем его потребности и оказываем всестороннюю поддержку на всех этапах. Наши офисы находятся в Хьюстоне и Алматы, и мы гордимся тем, что можем предложить профессиональные и надежные решения в международной сфере."
+        }
+
+
+    },
+
+
+
+
+    "en": {
+       "header": {
+            "title": "Where languages meet, understanding begins",
+            "text": "Contact us to learn more about our services and how we can help you.",
+            "nav_home": "Home",
+            "nav_about": "About Us",
+            "nav_contact": "Contact",
+            "nav_service": "Services"
+        },
+
+        "intro": {
+            "title": "Where languages meet, understanding begins",
+            "text": "Please contact us for more information about our services and how we can assist you.",
+            "service_btn": "SERVICES",
+            "phone_btn": "CALL US",
+
+            "f_name_l": "Full Name *",
+            "f_phone_l": "Phone Number *",
+            "f_email_l": "Email *",
+            "f_choose_l": "Service Type *",
+
+            "f_name_p": "Full Name",
+            "f_phone_p": "Your Phone Number",
+            "f_email_p": "Email",
+
+            "f_option_1": "Tourist Visa",
+            "f_option_2": "Work Visa",
+            "f_option_3": "Student Visa",
+            "f_option_4": "Remote Document Request",
+            "f_option_5": "Certified Translation",
+            "f_option_6": "Power of Attorney for Foreign Use",
+            "f_option_7": "Apostille / Legalization",
+
+            "f_btn": "Send"
+        },
+
+        "about_page": {
+            "service": "Our Services",
+            "about_us": "About Us",
+            "contact": "Our Contacts"
+        },
+
+        "our_services": {
+            "title": "Our Services",
+            "text": "Our team of highly qualified specialists provides professional services, ensuring reliability and accuracy in managing your documents.",
+
+            "card_title_1": "Work, Tourist, and Student Visas",
+            "card_title_2": "Education Abroad",
+            "card_title_3": "Remote Document Request",
+            "card_title_4": "Certified Document Translation",
+            "card_title_5": "Power of Attorney for Use Abroad",
+            "card_title_6": "Apostille and Document Legalization",
+
+            "card_text_1": "We assist with the processing of work, tourist, and student visas for countries in Europe, Asia, the USA, and other parts of the world.",
+            "card_text_2": "We assist in selecting the right educational program and preparing documents for admission to top universities in Malaysia, Thailand, the USA, and other countries.",
+            "card_text_3": "Our team of experienced professionals will efficiently and promptly ensure the acquisition of the required documents while complying with all legal norms and regulations.",
+            "card_text_4": "Our certified translators will provide translations with the highest level of accuracy, ensuring full compliance with all legal standards.",
+            "card_text_5": "We provide power of attorney drafting services for use abroad, ensuring full compliance with all international norms and requirements.",
+            "card_text_6": "We assist in legalizing and apostilling your documents, ensuring their recognition and legal validity abroad.",
+
+            "three_card_title_1": "About Us",
+            "three_card_title_2": "Why Choose Us?",
+            "three_card_title_3": "Our Mission",
+            
+            "three_card_text_1": "The company was founded in Houston, Texas, and now has a branch in Almaty, Kazakhstan. We offer a wide range of services: visa processing, assistance with admission to educational institutions, and document legalization. With us, you will receive professional support and confidence in the correctness of every step.",
+            "three_card_text_2": "We understand the challenges people face when dealing with documents and strive to provide a comfortable environment for resolving these issues. Our team is fully committed to ensuring that every task is handled to the highest standard. We care about making sure you feel understood and valued.",
+            "three_card_text_3": "We help individuals and businesses solve important tasks by offering affordable and high-quality services in the fields of visas, education, and employment abroad. Our goal is to simplify the process of obtaining documents and permits."
+
+        },
+
+        "why_us": {
+            "title": "Why Choose Us?",
+            "text": "<b>Customer Support</b><br>We are here to make your life easier and save you time. Each client receives personalized assistance at every stage—from the initial consultation to the successful completion of the process.<br><br><b>Experience and Professionalism</b><br>Our team consists of experts who know how to quickly and efficiently resolve even the most complex tasks. We provide high-quality and reliable solutions tailored to each client’s needs.<br><br><b>International Partnerships</b><br>We collaborate with universities and employers worldwide, giving you access to a wide range of opportunities for education and employment abroad. Our partners trust us because we understand the importance of delivering high-quality and timely services.<br><br><b>Free Consultation</b><br>We offer free consultations, help you choose the best solution, and provide clear guidance so you fully understand the necessary steps to take."
+        },
+
+        "about_us": {
+            "title": "About Us",
+            "text": "Our team of highly qualified specialists will provide you with professional services, ensuring reliability and accuracy in managing your documents.",
+
+            "our_strengths_title": "Our Strengths",
+            "our_strengths_text": "<b>Personalized Approach:</b><br>We do not just provide standard services; we develop solutions that are perfectly tailored to your needs.<br><br><b>Flexibility and Efficiency:</b><br>We value your time and guarantee a quick response, resolving issues in the shortest possible time.<br><br><b>Extensive Partner Network:</b><br>We collaborate with leading universities and employers, offering unique opportunities for studying and working abroad."
+        },
+
+        "free_consultation": {
+            "title": "Free Consultation",
+            "text": "Schedule a free consultation and receive expert assistance from our specialists.",
+            "btn": "Contact Us"
+        },
+
+        "contact_via_whatsapp": {
+            "title": "Contact Us via WhatsApp",
+            "btn": "Contact Us"
+        },
+
+        "reviews": {
+            "title": "Reviews",
+            "text": "We are pleased that our clients are satisfied with the quality of our services. Read their reviews to learn how we have helped them successfully manage their legal needs.",
+
+            "employee_name_1": "IRINA Z.",
+            "employee_name_2": "MAX S.",
+            "employee_name_3": "ELMIRA B.",
+
+            "employee_about_1": "I had an outstanding experience working with Silk Road Multilingual while obtaining a visa for my family. From the initial consultation to the final approval, their team demonstrated exceptional professionalism and extensive experience. They took the time to understand my unique situation and tailored their services to our specific needs, which made a significant difference.<br>I highly recommend their services to anyone in need of visa assistance. Their dedication to client satisfaction and profound expertise are truly first-class!",
+
+            "employee_about_2": "After unsuccessful attempts to obtain information and, later, the necessary documents related to a family matter, I turned to Silk Road Multilingual for assistance, particularly their remote document retrieval and apostille services from the United States. I was thoroughly impressed. The process was incredibly efficient and convenient, allowing me to obtain the required documents without the need to travel. The Silk Road Multilingual team demonstrated excellent communication and responsiveness. Their service was flawless and hassle-free, saving me valuable time and effort.<br>I highly recommend Silk Road Multilingual to anyone in need of remote document processing services, especially those requiring documents from the U.S.",
+
+            "employee_about_3": "We have been working with Silk Road Multilingual for many years, and during this time, they have proven to be a reliable and highly qualified partner. Their team’s professionalism, flexibility, and commitment to resolving any task at the highest level are always impressive. We highly value our long-term collaboration and are confident that our joint projects will continue to yield outstanding results."
+        },
+
+        "company_in_numbers": {
+                "partners": "COUNTRIES WITH INTERNATIONAL PARTNERS",
+                "translators": "PROFESSIONAL TRANSLATORS",
+                "individual_approach": "INDIVIDUAL APPROACH",
+                "clients": "COUNTRIES WITH OUR CLIENTS"
+        },
+
+        "our_team": {    
+            "title": "Our Team",
+            "text": "Our team of experienced professionals is always ready to assist you in solving any tasks.",
+
+            "employee_name_1": "Maria Ibrahim",
+            "employee_name_2": "Briza Solis",
+            "employee_name_3": "Margarita Rybalova",
+            "employee_name_4": "Jasmine Janabayeva",
+            "employee_name_5": "Kundyz Smith",
+
+            "employee_about_1": "Translator<br>Texas Notary Public<br>Operations Manager<br><br>Languages: Arabic, French, English",
+            "employee_about_2": "Translator<br>Texas Notary Public<br><br> Languages: Spanish, English",
+            "employee_about_3": "Document Processing Specialist<br> Visa Specialist<br><br> Languages: Russian, English",
+            "employee_about_4": "Intern<br><br> Languages: Kazakh, English",
+            "employee_about_5": "Translator<br>Texas Notary Public<br><br>Languages: Kazakh, Russian, English"
+
+        },
+
+        "our_news": {
+            "title": "Our Latest News",
+            "text": "Click the buttons below to stay updated with our latest news on Instagram!",
+
+            "news_title_1": "Our Office in Almaty is Open!",
+            "news_title_2": "Collaboration with Leading Universities Abroad",
+            "news_title_3": "Follow Us on Instagram!",
+
+            "news_text_1": "We are pleased to announce that our office is now located in Almaty at 145B Auezov Street. This convenient location makes it easy for you to find and visit us. We invite you to explore our services and ask any questions you may have!",
+            "news_text_2": "We are proud to announce our partnership with top universities in Thailand and Malaysia! We have carefully selected only the best institutions that meet British academic standards. Moreover, all of them offer dual-degree programs, providing our clients with exceptional opportunities for international education. We have personally visited these universities to ensure their high standards and quality of education. Stay tuned for updates on upcoming projects and initiatives.",
+            "news_text_3": "Don't miss out on important updates and interesting facts! We regularly share engaging and informative posts to keep you in the loop. Follow us on Instagram and stay updated!",
+
+            "btn": "Learn More"
+        },
+
+        "our_contact": {
+            "title": "Our Contact Information",
+            "text": "Please contact us today to receive qualified assistance from our specialists.",
+
+            "con_title_1": "Our Address",
+            "con_title_2": "Phone Number",
+            "con_title_3": "Email",
+            "con_title_4": "Kazakh-speaking Specialist’s Number",
+
+            "address": "145V Auezov Street, office 212 (corner of Zhandosov Street)",
+
+            
+            "f_title": "Contact Us",
+            "f_name": "Your First Name",
+            "f_lastname": "Your Last Name",
+            "f_email": "Your Email",
+            "f_phone": "Your Phone Number",
+            "f_message": "Enter Your Message",
+
+            "f_btn": "Send Message"
+
+        },
+
+        "footer": {
+            "col_title_1": "About Us",
+            "col_title_2": "Our Latest News",
+            "col_title_3": "Useful Links",
+
+            "col_text_1": "Silk Road Multilingual provides a comprehensive range of services to assist with visas, education, and international employment. We work with both private individuals and organizations, ensuring a seamless process for obtaining documents, visas, and permits required for studying and working abroad.We are committed to delivering personalized support at every stage, understanding the unique needs of our clients, and ensuring a smooth and efficient experience. With offices in Houston and Almaty, we take pride in offering professional, reliable, and legally sound solutions in the international domain."
+        }
+
+
+    },
+
+
+
+
+    "kz": {
+        "header": {
+            "nav_home": "Басты бет",
+            "nav_about": "Біз туралы",
+            "nav_contact": "Байланыс",
+            "nav_service": "Қызметтер"
+        },
+
+        "intro": {
+            "title": "Тілдер түйіскен жерде көңілдер табысады",
+            "text": "Біздің қызмет түрлерімен танысу үшін және қандай көмек түрлерін ұсынатынымызды білу үшін бізге хабарласыңыз.",
+            "service_btn": "ҚЫЗМЕТТЕР",
+            "phone_btn": "БІЗГЕ ҚОҢЫРАУ ШАЛЫҢЫЗ",
+
+            "f_name_l": "Толық аты-жөні *",
+            "f_phone_l": "Телефон нөмірі *",
+            "f_email_l": "Электрондық пошта *",
+            "f_choose_l": "Қызмет түрі *",
+        
+            "f_name_p": "Толық аты-жөніңіз",
+            "f_phone_p": "Сіздің телефон нөміріңіз",
+            "f_email_p": "Электрондық пошта",
+        
+            "f_option_1": "Туристік виза",
+            "f_option_2": "Жұмыс визасы",
+            "f_option_3": "Студенттік виза",
+            "f_option_4": "Құжаттарды қашықтан сұрату",
+            "f_option_5": "Сертификатталған аударма",
+            "f_option_6": "Шетелге сенімхат рәсімдеу",
+            "f_option_7": "Апостиль қою / Құжаттарды заңдастыру",
+
+            "f_btn": "Жіберу"
+        },
+
+        "about_page": {
+            "service": "Біздің қызметтеріміз",
+            "about_us": "Біз туралы",
+            "contact": "Біздің байланыстар"
+        },
+
+        "our_services": {
+            "title": "Біздің қызметтер",
+            "text": "Жоғары білікті мамандардан құралған командамыз сізге кәсіби деңгейде қызмет көрсетіп, құжаттарыңызбен жұмыс істеуде сенімділік пен дәлдікті қамтамасыз етеді.",
+
+            "card_title_1": "Жұмыстық, туристтік және студенттік визалар",
+            "card_title_2": "Шет елде оқуға түсу",
+            "card_title_3": "Хұжаттарды арақашықтықтан жасап беру мүмкіндігі",
+            "card_title_4": "Сертификатты жазбаша аударма",
+            "card_title_5": "Шетелге арналған сенімхаттар",
+            "card_title_6": "Құжаттарды апостильдеу және заңдастыру",
+
+            "card_text_1": "Біз Европа, Азия, Америка және басқа да елдерге жұмыстық, туристтік, студенттік визалар жасауға жәрдем беремиз.",
+            "card_text_2": "Біз сізге қолайлы білім алу программасын таңдауға және Малайзия, Таиланд, АҚШ  және басқа да елдердегі үздік оқу орындарына түсуде хұжат топтауға жәрдем береміз.",
+            "card_text_3": "Біздің білікті мамандар барлық заңдық нормаларды және талаптарды сақтай отырып сізге қажет болған хұжаттарыңызды тез және сапалы жеткізіп беруді қамтамасыз етеді.",
+            "card_text_4": "Біздің арнайы дайындықтан өткен аудармашыларымыз барлық заң талаптарын сақтай отырып сіздің хұжаттарыңыздың аудармасын сапалы жасап береді.",
+            "card_text_5": "Біз барлық халықаралық нормалар мен талаптарға сәйкес шетелге арналған сенімхаттарды рәсімдеу қызметін ұсынамыз.",
+            "card_text_6": "Біз сіздің құжаттарыңызды заңдастыруға және апостильдеуге көмектесеміз, оларды шетелде мойындау мен заңды күшіне ие болуын қамтамасыз етеміз.",
+
+            "three_card_title_1": "Біз туралы",
+            "three_card_title_2": "Неліктен біз?",
+            "three_card_title_3": "Біздің миссиямыз",
+            
+            "three_card_text_1": "Біздің компания Хьюстон қаласында (Техас штаты) құрылды, ал қазір Алматыда да филиалымыз бар. Біз кең ауқымды қызметтер ұсынамыз: виза рәсімдеу, оқу орындарына түсуге көмек және құжаттарды заңдастыру. Бізбен бірге сіз кәсіби қолдау алып, әр қадамыңыздың дұрыстығына сенімді боласыз.",
+            "three_card_text_2": "Құжаттармен жұмыс істеу кезінде адамдар қандай қиындықтарға тап болатынын біз жақсы түсінеміз және оларды оңай әрі ыңғайлы шешуге көмектесуге тырысамыз. Біздің командамыз әр тапсырманы жоғары деңгейде орындау үшін бар күшін салады. Біз сіздің өзіңізді бағалы әрі түсінілген сезінуіңізге ерекше мән береміз.",
+            "three_card_text_3": "Біз жеке тұлғалар мен компанияларға маңызды мәселелерді шешуге көмектесеміз, виза, білім және шетелде жұмысқа орналасу саласында қолжетімді әрі сапалы қызметтер ұсынамыз. Құжаттар мен рұқсаттарды алу процесін барынша жеңілдетуге тырысамыз."
+
+        },
+
+        "why_us": {
+            "title": "Неліктен бізді таңдайды?",
+            "text": "<b>Клиенттерді қолдау</b><br>Біз сіздің өміріңізді жеңілдету және уақытыңызды үнемдеу үшін қызмет етеміз. Әр клиентке кеңес беруден бастап, процестің сәтті аяқталуына дейін жеке сүйемелдеу көрсетеміз.<br><br><b>Тәжірибе мен кәсіпқойлық</b><br>Біздің командамыз – ең күрделі міндеттерді жылдам әрі тиімді шешуді білетін сарапшылар. Біз әр клиент үшін сапалы әрі қауіпсіз шешімдер ұсынамыз.<br><br><b>Халықаралық серіктестік</b><br>Біз әлемдегі университеттермен және жұмыс берушілермен тығыз байланыстамыз, бұл сізге шетелде оқу мен жұмысқа орналасу үшін кең мүмкіндіктер ашады. Бізге серіктестеріміз сенім артады, өйткені біз сапалы және уақтылы қызмет көрсетудің маңыздылығын түсінеміз.<br><br><b>Тегін кеңес беру</b><br>Біз тегін кеңес беріп, ең қолайлы шешімді таңдауға көмектесеміз және қандай қадамдар жасау керектігін нақты түсіндіреміз."
+        },
+
+        "about_us": {
+            "title": "Біз туралы",
+            "text": "Жоғары білікті мамандардан құралған командамыз сізге кәсіби деңгейде қызмет көрсетіп, құжаттарыңызбен жұмыс істеуде сенімділік пен дәлдікті қамтамасыз етеді.",
+    
+            "our_strengths_title": "Біздің басты артықшылықтарымыз",
+            "our_strengths_text": "<b> Жеке тәсілдеме:</b><br>Біз тек стандартты қызметтер ұсынып қана қоймай, сізге барынша қолайлы шешімдерді әзірлейміз.<br><br><b> Икемділік пен жеделдік:</b><br>Сіздің уақытыңызды бағалай отырып, барлық мәселелерді қысқа мерзімде шешуге кепілдік береміз.<br><br><b> Кең серіктестік желісі:</b><br>Жетекші университеттер мен жұмыс берушілермен тығыз байланыс орнату арқылы шетелде білім алу және жұмыс істеу үшін бірегей мүмкіндіктер ұсынамыз."
+        },
+
+        "free_consultation": {
+            "title": "Тегін кеңес алу",
+            "text": "Тегін кеңеске жазылып, мамандардың білікті көмегін алыңыз.",
+            "btn": "Бізбен байланысыңыз"
+        },
+
+        "contact_via_whatsapp": {
+            "title": "WhatsApp арқылы бізбен байланысыңыз",
+            "btn": "Бізбен байланысыңыз"
+        },
+
+        "reviews": {
+            "title": "Пікірлер",
+            "text": "Біз клиенттеріміздің жұмыс нәтижесіне риза болғанына қуаныштымыз. Олардың пікірлерімен танысып, біз олардың міндеттерін сәтті шешуге қалай көмектескенімізді біліңіз.",
+
+            "employee_name_1": "ИРИНА 3.",
+            "employee_name_2": "МАКС С.",
+            "employee_name_3": "ЭЛЬМИРА Б.",
+
+            "employee_about_1": "Мен Silk Road Multilingual компаниясымен жұмыс істегенімде керемет тәжірибе алдым. Отбасым үшін виза алу процесінде бастапқы кеңес беруден бастап, визаны алуға дейін олардың командасы кәсібилік пен жоғары біліктілікті көрсетті. Олар менің жағдайымды мұқият түсініп, қызметтерін біздің нақты қажеттіліктерімізге бейімдеді, бұл біз үшін өте маңызды болды. Визалық қолдау қажет кез келген адамға олардың қызметтерін шын жүректен ұсынамын. Олардың клиенттердің көнілінен шығуы,адалдығы мен тәжірибесі шынымен де жоғары деңгейде!",
+
+            "employee_about_2": "Отбасылық мәселеге байланысты қажетті ақпарат пен құжаттарды өз бетімше алуға сәтсіз әрекеттер жасағаннан кейін, мен Silk Road Multilingual компаниясының қызметтерін пайдалануды шештім. Атап айтқанда, АҚШ-тан құжаттарды қашықтан сұрату және апостиль қою қызметтерін пайдаланып, нәтижесіне толықтай риза болдым.<br>Процесс өте тиімді және ыңғайлы болды, бұл маған қажетті құжаттарды сапарға шықпай-ақ алуға мүмкіндік берді. Silk Road Multilingual командасы жоғары деңгейдегі коммуникация мен жедел қызмет көрсетті. Қызмет сапасы мінсіз және кедергісіз болды, бұл менің уақытым мен күшімді айтарлықтай үнемдеді.<br>Құжаттарды қашықтан рәсімдеу қызметін іздеген, әсіресе АҚШ-тан құжат қажет адамдарға Silk Road Multilingual компаниясын шын жүректен ұсынамын.",
+
+            "employee_about_3": "Silk Road Multilingual компаниясымен біз көп жылдан бері тығыз жұмыс істеп келеміз, және осы уақыт ішінде олар өздерін сенімді әрі жоғары білікті серіктес ретінде көрсетті. Олардың командасының кәсібилігі, икемділігі және кез келген мәселені жоғары деңгейде шешуге дайындығы әрдайым қуантады. Біз ұзақ мерзімді серіктестікті бағалаймыз және бірлескен жобалардың болашақта да тамаша нәтижелер әкелетініне сенімдіміз."
+        },
+
+        "company_in_numbers": {
+            "partners": "ЕЛ АРАЛЫҚ ХАЛЫҚАРАЛЫҚ СЕРІКТЕСТЕРМЕН",
+            "translators": "КӘСІБИ АУДАРМАШЫЛАР",
+            "individual_approach": "ЖЕКЕ ҚАРАСТЫРУ",
+            "clients": "ЕЛ БІЗДІҢ КЛИЕНТТЕРІМЕН"
+        },
+
+        "our_team": {    
+            "title": "Біздің команда",
+            "text": "Тәжірибелі мамандардан құралған командамыз кез келген мәселені шешуге әрдайым дайын.",
+
+            "employee_name_1": "Мария Ибрагим",
+            "employee_name_2": "Бриза Солис",
+            "employee_name_3": "Маргарита Рыбалова",
+            "employee_name_4": "Жасмин Джанабаева",
+            "employee_name_5": "Құндыз Смит",
+
+            "employee_about_1": "Аудармашы<br> Техас қоғамдық нотариус<br> Операциялық қызмет менеджері<br><br> Тілдер: Араб, Француз, Ағылшын",
+            "employee_about_2": "Аудармашы<br> Техас қоғамдық нотариус<br><br> Тілдер: Испан, Ағылшын",
+            "employee_about_3": "Құжаттар жөніндегі маман<br>Виза рәсімдеу бойынша маман<br><br>Тілдер: Орыс, Ағылшын",
+            "employee_about_4": "Тағылымгер<br><br> Тілдер: Қазақ, Ағылшын",
+            "employee_about_5": "Аудармашы<br>Техас қоғамдық нотариус<br><br>Тілдер: Қазақ, Орыс, Ағылшын"
+        },
+
+        "our_news": {
+            "title": "Біздің соңғы жаңалықтар",
+            "text": "Төмендегі батырмалар арқылы өтіп, Instagram-дағы жаңартуларымызды бақылаңыз!",
+
+            "news_title_1": "Біздің офис Алматыда ашылды!",
+            "news_title_2": "Шетелдік университеттермен тығыз жұмысымыз",
+            "news_title_3": "Instagram парақшамызға жазылыңыз!",
+
+            "news_text_1": "Қуанышты жаңалық – енді біздің офис Алматы қаласында, Ауэзов көшесі, 145В мекенжайында орналасқан. Ыңғайлы орналасуының арқасында бізді оңай тауып, келе аласыз. Сіздерді қызметтерімізбен танысып, барлық сұрақтарыңызды қоюға шақырамыз!",
+            "news_text_2": "Біз Тайланд пен Малайзияның жетекші университеттерімен серіктестік бастағанымызды мақтанышпен хабарлаймыз! Біз тек британдық білім беру стандарттарына сай келетін ең үздік оқу орындарын мұқият таңдадық.<br>Сонымен қатар, бұл университеттердің барлығы қос диплом бағдарламаларын ұсынады, бұл біздің клиенттерімізге халықаралық білім алуда бірегей мүмкіндіктер береді. Біз бұл оқу орындарына жеке барып, олардың жоғары деңгейі мен білім сапасына көз жеткіздік.<br>Алдағы жобалар мен бастамалар туралы толық ақпарат алу үшін жаңалықтарымызды бақылап отырыңыз!",
+            "news_text_3": "Маңызды жаңалықтар мен қызықты деректерді жіберіп алмаңыз! Біз сіздерді үнемі хабардар ету үшін пайдалы және қызықты жазбалар сериясын жүргіземіз.<br><br>Instagram парақшамызға жазылып, жаңалықтарымызды бақылап отырыңыз!",
+
+            "btn": "Көбірек білу"
+        },
+
+        "our_contact": {
+            "title": "Біздің байланыстар",
+            "text": "Бүгін бізбен байланысып, мамандарымыздан білікті көмек алыңыз.",
+
+            "con_title_1": "Біздің мекенжайымыз",
+            "con_title_2": "Телефон нөмірі",
+            "con_title_3": "Email",
+            "con_title_4": "Қазақша сөйлейтін маманның нөмірі",
+
+            "address": "Әуезов көшесі 145В ұй, 212 бөлме (Жандосов көшесі қиылысы)",
+
+
+            "f_title": "Бізбен байланысыңыз",
+            "f_name": "Атыңыз",
+            "f_lastname": "Тегіңіз",
+            "f_email": "Электрондық поштаңыз",
+            "f_phone": "Телефон нөміріңіз",
+            "f_message": "Хабарламаңызды енгізіңіз",
+        
+            "f_btn": "Хабарлама жіберу"
+        },
+
+        "footer": {
+            "col_title_1": "Компания туралы",
+            "col_title_2": "Соңғы жаңалықтарымыз",
+            "col_title_3": "Пайдалы сілтемелер",
+
+            "col_text_1": "Silk Road Multilingual компаниясы виза, білім және шетелде жұмысқа орналасуға байланысты маңызды мәселелерді шешуге бағытталған кең ауқымды қызметтерді ұсынады. Біз жеке клиенттермен де, ұйымдармен де жұмыс істейміз, құжаттар, визалар мен шетелде оқу және жұмыс істеуге рұқсаттарды алу процесін жеңілдетуге көмектесеміз.Әр клиент үшін ыңғайлы жағдай жасап, оның қажеттіліктерін түсінеміз және барлық кезеңдерде жан-жақты қолдау көрсетеміз. Біздің кеңселеріміз Хьюстон мен Алматыда орналасқан, және біз халықаралық салада кәсіби әрі сенімді шешімдерді ұсынатынымызды мақтан тұтамыз."
+        }
+
+    }
+}
